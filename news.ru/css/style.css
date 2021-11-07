@@ -1,0 +1,54 @@
+h1 {
+  font-family: Arial;
+  font-weight: normal;
+}
+.card__date {
+  display: inline;
+  align-items: center;
+  background-color: #86305f;
+  color: white;
+  margin-right: 8px;
+}
+
+.announce {
+  font-size: 15px;
+  font-family: Arial;
+  line-height: 19px;
+}
+.margin {
+  margin-top: 30px;
+  font-family: Arial;
+  font-size: 16px;
+  line-height: 0px;
+
+}
+.knopka {
+  color: #86305f;
+  text-decoration: none;
+  font-size: 14px;
+  font-family: Arial;
+  background: #F1E8D7;
+  margin-top: 3px;
+  margin-right: 1px;
+  display:inline-block;
+  width:30px;
+  text-align: center;
+  border: 1px solid #86305f;
+
+}
+a.knopka:hover { background: #6C768F; }
+a.knopka:active { background: #D4D39A; }
+
+h2 {
+  font-family: Arial;
+  font-weight: normal;
+  line-height: 0px;
+  margin-top: 30px;
+}
+hr {
+  margin: 20px 0;
+  padding: 0;
+  height: 0;
+  border: none;
+  border-top: 1px dotted black;
+}
